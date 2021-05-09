@@ -4,4 +4,5 @@ A recommendation engine filters the data using different algorithms and recommen
 Here we have tried to cover two types of recommendation models:
 
 a. Content based
+
 b. Collaborative based
