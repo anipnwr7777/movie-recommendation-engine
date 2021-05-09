@@ -6,3 +6,5 @@ Here we have tried to cover two types of recommendation models:
 a. Content based
 
 b. Collaborative based
+
+just add all the datasets to the directories and run any of the python files locally or on any of the cloud based platform like google colab and you are good to go.
